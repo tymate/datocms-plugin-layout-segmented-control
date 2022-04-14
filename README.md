@@ -1,3 +1,5 @@
-# [Your plugin name]
+# Dato CMS plugin layout segmented control
 
-[Describe what your plugin does, and how users you can configure it! Screenshots are always welcome!]
+This plugin changes the appearance of the fields whose ids are “layout”, to make them look like a segmented control with fixed values.
+
+Pretty niche, we admit.
